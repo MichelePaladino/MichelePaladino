@@ -9,10 +9,10 @@ You are here to know more about me, so...
 
 ---
 
-My most ambitious project is [MTG Builders](https://mtg.builders).
+Currently, I'm managing [MTG Builders](https://mtg.builders).
 
 
-It's a SaaS that I have solo-developed!
+MTG Builders is a SaaS that I have solo-developed!
 I wrote [a series of articles](https://www.michelepaladino.dev/articles/building-mtg-builders-part-one) describing the journey that led to its creation.
 
 It was a fun, long road full of obstacles, and bugs 🐛, and problems, and bugs 🐛!
